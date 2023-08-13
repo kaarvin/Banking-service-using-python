@@ -1,3 +1,3 @@
-a=22
-b=20
-print(a+b) --this is additon one#
+a=15
+b=2
+print(a+b)
